@@ -247,6 +247,3 @@ else if(query=='N'){
 
 }
 
-
-///////             FINALLYY WE MADE IT
-/////               CONGRATULATIONS SUMIT! KEEP UP THE HARD WORK!!!!
